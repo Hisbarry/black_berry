@@ -195,7 +195,7 @@
     <footer>
         <p id="foot">
             &copy; 2021, Made with ❤ by
-            <a id="fot" href="https://www.linkedin.com/in/madansinha/" target="_blank">Madan Sinha
+            <a id="fot" href="https://www.linkedin.com/in/linkedin.com/in/techbarry/" target="_blank">Madan Sinha
             </a>
         </p>
     </footer>
