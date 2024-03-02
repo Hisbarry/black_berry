@@ -1,0 +1,61 @@
+https://kit.hisbarry.com/5eb2c51ffb.jshttps://www.codewithrandom.com/2022/10/10/portfolio-website-using-html-and-css/https://github.com/lazy4gyan/3-Column-Preview-Card/blob/main/design/desktop-design.jpg?raw=true	<script src="https://kit.fontawesome.com/5eb2c51ffb.js" crossorigin="anonymous"></script> 
+<!-- For Font-awesome icon -->
+<nav id="navbar" class="nav">
+		<ul>
+		  <li>
+			<a href="#welcome-section">About</a>
+		  </li>
+		  <li>
+			<a href="#projects">Work</a>
+		  </li>
+		  <li>
+			<a href="#contact">Contact</a>
+		  </li>
+		</ul>
+	  </nav>
+	  
+	  
+	  <!-- Second Section-->
+	  
+	  <section id="welcome-section">
+		<h1>Hey I'm Godsfavour</h1>
+		<p><i>a front-end web developer</i></p>
+	  </section>
+	  
+	  <section id="projects" class="project-section">
+			<h2 class="projects-section-header">My Project's</h2>https://github.com/lazy4gyan/Huddle-landing-page/blob/main/design/huddle.png?raw=truehttps://62430ce3085a210baf9a1f20--lazygyan-3column-preview-card.netlify.app/https://moonlit-nougat-ab6465.netlify.app			<p class="project-title">
+			  
+			  Random Quote using React
+			  
+			</p>
+		  </a>
+		  
+		  <a
+			href="https://moonlit-nougat-ab6465.netlify.app"
+			target="_blank"
+			class="project project-tile"
+		  >
+			<img
+			  class="project-image"
+			  src="https://github.com/lazy4gyan/Huddle-landing-page/blob/main/design/huddle.png?raw=true"
+			  alt="project"
+			/>
+			<p class="project-title">
+			  
+			  Huddle landing page
+			  
+			</p>
+		  </a>
+	  
+		  <a
+			href="https://62430ce3085a210baf9a1f20--lazygyan-3column-preview-card.netlify.app/"
+			target="_blank"
+			class="project project-tile"
+		  >
+			<img
+			  class="project-image"
+			  src="https://github.com/lazy4gyan/3-Column-Preview-Card/blob/main/design/desktop-design.jpg?raw=true"
+			  alt="project"
+			/>
+			<p class="project-title">
+			  
