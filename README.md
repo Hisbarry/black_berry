@@ -194,7 +194,7 @@
 
     <footer>
         <p id="foot">
-            &copy; 2021, Made with ❤ by
+            &copy; 2023, Made with ❤
             <a id="fot" href="https://www.linkedin.com/in/linkedin.com/in/techbarry/" target="_blank">Madan Sinha
             </a>
         </p>
